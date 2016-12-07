@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 425ac76f6843ecf4b83b8a66e61811cd
+labels:
+- RPG
+- Framework
+- System
+- Action
+- Scripts
+- Inventory
+- ItemGenerator
+- Quests
+- Vendor
+- CraftingSystem
+- Achievements
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

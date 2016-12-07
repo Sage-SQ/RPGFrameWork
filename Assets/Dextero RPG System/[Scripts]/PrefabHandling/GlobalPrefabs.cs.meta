@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bfc865ff57fae82438e415d0d86ac5d3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ghostEffect: {fileID: 100000, guid: 4f164842a4668cb43adf0c06e6e8bd2f, type: 2}
+  - healBuff: {fileID: 100000, guid: 0b07e40fabc1c944797204fab51a6975, type: 2}
+  - teleportEffect: {fileID: 100000, guid: f37dfd7d87923b54cb3d3010f2677ce6, type: 2}
+  - playerPortal: {fileID: 100000, guid: fe06f84e3e88e7b449f31d8afdba354e, type: 2}
+  - levelUpEffect: {fileID: 100000, guid: f1a7834f6c233ce45839c614824e4d36, type: 2}
+  - floatingText: {fileID: 100000, guid: 588fcf7a84a77e94c9bc847cb40ec2f5, type: 2}
+  - floatingDamageText: {fileID: 100000, guid: 80aa4ecbb701ce547848ded9b7af1aca, type: 2}
+  - floatingBuffText: {fileID: 100000, guid: 0a862d9d00723b4488d1e12c3d8fcd98, type: 2}
+  - lootPrefab: {fileID: 100000, guid: 17ec29bb3b086ff4aa2adaeb414885b1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

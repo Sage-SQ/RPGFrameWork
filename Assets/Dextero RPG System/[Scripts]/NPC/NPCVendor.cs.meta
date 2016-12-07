@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b97ab6f400911e040b6198b0738446a5
+labels:
+- System
+- Action
+- Scripts
+- Inventory
+- ItemGenerator
+- Quests
+- Vendor
+- CraftingSystem
+- Achievements
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
